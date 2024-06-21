@@ -1,4 +1,4 @@
-# HR-Analytics_Employee-Attrition-Analysis-and-Prediction.
+ HR-Analytics_Employee-Attrition-Analysis-and-Prediction.
 
 I am excited to share that I have completed my first project as a Data Analyst Intern at Technocolabs Softwares. This project involved creating an HR analytics dashboard focused on employee attrition.
 
